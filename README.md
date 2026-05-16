@@ -1,4 +1,4 @@
-🎮 Video Game Data Analysis
+#🎮 Video Game Data Analysis
 Projeto de análise de dados focado no mercado de videogames, explorando a evolução da indústria entre 1977 e 2020. O objetivo é identificar padrões, tendências e insights relevantes a partir de dados históricos de vendas globais.
 
 📊 Sobre o Projeto
